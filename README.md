@@ -213,3 +213,9 @@
     
     - A **two-way** ANOVA uses two independent variables. Report two-way ANOVA in a similar way as one-way ANOVA but for each independent variable.
 
+
+References mainly taken from
+- Wikipedia
+- https://www.scribbr.com/category/statistics/
+- Koo, Terry K., and Mae Y. Li. "A guideline of selecting and reporting intraclass correlation coefficients for reliability research." Journal of chiropractic medicine 15, no. 2 (2016): 155-163.
+
