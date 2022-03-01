@@ -1,8 +1,6 @@
 # StatisticsAtGlance
 
-# Important Statistics
-
-1. ###### Pearson’s correlation coefficient (PCC), aka Pearson's r and bivariate correlation, or simply as correlation coefficient.
+1. #### Pearson’s correlation coefficient (PCC), aka Pearson's r and bivariate correlation, or simply as correlation coefficient.
    
    - A ratio between the covariance of two variables and the product of their standard deviations, thus it is essentially a normalized measurement of the covariance, [-1,1].
    
@@ -14,7 +12,7 @@
    
    ---
 
-2. ###### Coefficient of determination, $R^2$ (R squared)
+2. #### Coefficient of determination, $R^2$ (R squared)
    
    - Proportion of the variation in the dependent variable that is **predictable** from the independent variable(s). Normally within the range of 0 to 1.
    
@@ -28,7 +26,7 @@
    
    ---
 
-3. ###### Intraclass Correlation Coefficient, ICC
+3. #### Intraclass Correlation Coefficient, ICC
    
    - A reliability index in test-retest, intra-rater, inter-rater reliability analyses. 
      
@@ -53,7 +51,7 @@
    
    ---
 
-4. ###### Descriptive statistics & Inferential statistics
+4. #### Descriptive statistics & Inferential statistics
    
    - In quantitative research, after collecting data, the first step of statistical analysis is to describe characteristics of the responses, such as the average of one variable (*e.g.*, age), or the relation between two variables (*e.g.*, age and creativity), namely **descriptive statistics**.
      
@@ -67,7 +65,7 @@
    
    ---
 
-5. ###### Central Limit Theorem
+5. #### Central Limit Theorem
    
    - A sampling distribution of the mean is the distribution of the means of these different samples.
      
@@ -77,7 +75,7 @@
    
    ---
 
-6. ###### t-distribution
+6. #### t-distribution
    
    - A type of normal distribution used for smaller sample sizes, where the variance in the data is unknown, with the greatest number of **observations** close to the mean and fewer observations in the tails.
    
@@ -91,7 +89,7 @@
    
    ---
 
-7. ###### Confidence interval
+7. #### Confidence interval
    
    - The mean of your estimate plus and minus the variation in that estimate. This is the range of values you expect your estimate to fall between if you redo your test, within a certain level of confidence.
    
@@ -103,7 +101,7 @@
    
    ---
 
-8. ###### Hypothesis testing
+8. #### Hypothesis testing
    
    - Step 1, State your null and alternate hypothesis.
      
@@ -121,7 +119,7 @@
    
    ---
 
-9. ###### Test statistics
+9. #### Test statistics
    
    ![](./teststatistics.png)
    
@@ -129,7 +127,7 @@
 - Because the test statistic is generated from your observed data, this ultimately means that the smaller the **p-value**, the less likely it is that your data could have occurred if the null hypothesis was true.
   
    ---
-10. ###### $p$ value, probability value
+10. #### $p$ value, probability value
     
     - A number calculated from a statistical test that describes how likely you are to have found a particular set of observations if the **null hypothesis** were true. The smaller the p-value, the more likely you are to reject the null hypothesis.
       
@@ -143,7 +141,7 @@
     
     ---
 
-11. ###### Statistical power, sensitivity
+11. #### Statistical power, sensitivity
     
     - High power in a study indicates a large chance of a test detecting a **true effect**. Low power means that your test only has a small chance of detecting a true effect or that the results are likely to be distorted by random and systematic error.
     
@@ -171,7 +169,7 @@
     
     ---
 
-13. ###### Statistical test
+13. #### Statistical test
     
     - Types of variable (for both predictor and outcome variables), number of groups being compared lead to different tests.
     
@@ -181,7 +179,7 @@
     
     ---
 
-14. ###### T-test
+14. #### T-test
     
     - Types of t-test
       
@@ -197,7 +195,7 @@
     
     ---
 
-15. ###### Anova (Analysis of Variance)
+15. #### Anova (Analysis of Variance)
     
     - Independent vs. dependent variables
       
